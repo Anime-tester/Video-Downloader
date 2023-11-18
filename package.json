@@ -26,7 +26,7 @@
     "express": "^4.18.2",
     "get-youtube-id": "^1.0.1",
     "outers": "^2.3.5",
-    "typed.js": "^2.0.16",
+    "typed.js": "^2.0.132",
     "video-url-link": "^0.1.5"
   }
 }
